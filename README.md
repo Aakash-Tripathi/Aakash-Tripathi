@@ -6,7 +6,7 @@
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:aakash.tripathi0304@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakash-tripathi/)
-[<img src="https://img.shields.io/badge/CALL-(404)%20234--8483-9cf?style=for-the-badge">]()
+[<img src="https://img.shields.io/badge/CALL-(404)%20234--8483-9cf?style=for-the-badge">]
 
 
 #### MY OTHER PROFILES
