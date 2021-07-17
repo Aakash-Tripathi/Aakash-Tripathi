@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Aakash and I am currently majoring in Electrical and Computer Engineering at Rowan University.  
+
 ---
 
 #### GET IN TOUCH
