@@ -1,9 +1,10 @@
 # Hi there, I'm Aakash 👋
 
-- I am currently majoring in Electrical and Computer Engineering at Rowan University
+- I am currently 
+  - majoring in Electrical and Computer Engineering at Rowan University
 - I am working on 
-  - Getting AWS Solutions Architect Certified
-  - 
+  - getting AWS Solutions Architect Certified
+  - learning Reinforcement learning at Rowan
 
 ## 📲 | GET IN TOUCH
 
