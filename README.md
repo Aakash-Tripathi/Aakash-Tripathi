@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ---
 I'm Aakash and I am currently majoring in Electrical and Computer Engineering at Rowan University.  
 
@@ -8,7 +8,7 @@ I'm Aakash and I am currently majoring in Electrical and Computer Engineering at
 Reinforcement Learning
 
 #### 📲 | GET IN TOUCH
--------
+---
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:aakash.tripathi0304@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakash-tripathi/)
