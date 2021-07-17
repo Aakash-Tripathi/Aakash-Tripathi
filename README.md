@@ -6,6 +6,8 @@
   - getting AWS Solutions Architect Certified
   - learning Reinforcement learning at Rowan
 
+
+
 ## 📲 | GET IN TOUCH
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:aakash.tripathi0304@gmail.com)
