@@ -2,9 +2,8 @@
 
 I'm Aakash and I am currently majoring in Electrical and Computer Engineering at Rowan University.  
 
-I'm Currently Learning
----
-* Rowan University *
+💻 I'm Currently Learning
+**Rowan University
 - Reinforcement Learning
 
 
