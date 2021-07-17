@@ -6,7 +6,10 @@
   - getting AWS Solutions Architect Certified
   - learning Reinforcement learning at Rowan
 
-<body> 
+<body>
+  
+  
+  
 </body>
 
 ## 📲 | GET IN TOUCH
