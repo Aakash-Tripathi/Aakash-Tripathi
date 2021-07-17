@@ -12,6 +12,7 @@
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/aakash_tripathi1)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">](https://www.kaggle.com/aakashtri)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/aakashtripathi/)
+[<img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=github&logoColor=white">](https://leetcode.com/aakashtripathi/)
 
 ---
 
