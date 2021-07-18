@@ -4,7 +4,7 @@ I am a student at Rowan University majoring in Electrical and Computer Engineeri
 
 I have experience with Data Science, Machine Learning, and Deep Learning
 
-I am working currently on getting AWS Solutions Architect Certified and learning Reinforcement learning at Rowan
+I am currently working on getting AWS Solutions Architect Certified and learning Reinforcement learning at Rowan
 
 ## 📲 | GET IN TOUCH
 
