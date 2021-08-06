@@ -1,2 +1,2 @@
-- [] Add Resume
-- [] Add Publications 
+- [ ] Add Resume
+- [ ] Add Publications 
