@@ -1,7 +1,7 @@
 # Hi there, I'm Aakash 👋
 
 I am a 4th-year Undergraduate Student at Rowan University, pursuing a bachelor's of science in Electrical and Computer Engineering. 
-* I have prior experience with *Data Science*, *Machine Learning*, and *Deep Learning*.
+* I have prior experience with *Data Science*, **Machine Learning**, and *Deep Learning*.
 * I am currently working on getting *AWS Solutions Architect Certified* and *learning Reinforcement learning* at Rowan University.
 
 ## 📲 | GET IN TOUCH
