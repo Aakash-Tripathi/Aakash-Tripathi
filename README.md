@@ -1,7 +1,7 @@
 # Hi there, I'm Aakash 👋
 
 I am an Electrical and Computer Engineering. 
-* I have prior experience with **Data Science**, **Machine Learning**, and **Deep Learning**.
+* I have prior experience with **Data Science**, **Machine Learning**, **Deep Learning**, **3D Devlopment**, and **IoT**.
 * I am currently working on getting **AWS Solutions Architect Certified**.
 
 ## 📲 | GET IN TOUCH
