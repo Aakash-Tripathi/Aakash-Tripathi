@@ -1,9 +1,5 @@
 # Hi there, I'm Aakash 👋
 
-I am an Electrical and Computer Engineering. 
-* I have prior experience with **Data Science**, **Machine Learning**, **Deep Learning**, **3D Devlopment**, and **IoT**.
-* I am currently working on getting **AWS Solutions Architect Certified**.
-
 ## 📲 | GET IN TOUCH
 
 [<img src="https://img.shields.io/badge/aakash.tripathi0304@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:aakash.tripathi0304@gmail.com)
