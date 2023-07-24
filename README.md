@@ -12,6 +12,3 @@
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/aakashtripathi/)
 [<img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=github&logoColor=white">](https://aakash-tripathi.github.io/)
 
-
-
-![Aakash Tripathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakash-tripathi&show_icons=true&theme=highcontrast&count_private=true&hide=stars,issues&include_all_commits=1)
