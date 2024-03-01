@@ -8,7 +8,7 @@ Conducting Research at Moffitt Cancer Center | Check out our [[lab page]](https:
 
 ## Education
 
-- 2022.09-*Present* College of Engineering, University of South Florida Ph.D.
+- 2022.09-*Present* College of Engineering, University of South Florida Ph.D. in Electrical Engineering
 - 2018.09-2022.06 Henry M. Rowan College of Engineering, Rowan University B.S in Electrical and Computer Engineering
 
 ## Research Interests
