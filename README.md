@@ -4,7 +4,7 @@
 
 University of South Florida
 
-Conducting Research at Moffitt Cancer Center | Check out our [[lab page]](https://lab.moffitt.org/Rasool/)
+Conducting Research at Moffitt Cancer Center | Check out our [[lab page]](https://lab.moffitt.org/Rasool/) and [[GitHub Page]](https://github.com/lab-rasool)
 
 ## Education
 
