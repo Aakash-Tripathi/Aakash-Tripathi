@@ -2,29 +2,14 @@
 
 ### *Ph.D. Student*
 
-University of South Florida
-
-Conducting Research at Moffitt Cancer Center | Check out our [[lab page]](https://lab.moffitt.org/Rasool/) and [[GitHub Page]](https://github.com/lab-rasool)
+- University of South Florida 
+- Conducting Multimodal Medical Research at Moffitt Cancer Center 
+- Check out our [[lab page]](https://lab.moffitt.org/Rasool/) and [[GitHub Page]](https://github.com/lab-rasool)
 
 ## Education
 
 - 2022.09-*Present* College of Engineering, University of South Florida Ph.D. in Electrical Engineering
 - 2018.09-2022.06 Henry M. Rowan College of Engineering, Rowan University B.S in Electrical and Computer Engineering
-
-## Research Interests
-
-- Natural Language Processing
-- Computer Vision
-- Applications of AI in Medicine
-- Super Computing
-
-## Skills
-
-- Programming Language: **Python**; C++; JavaScript; Rust, Verilog HDL; MATLAB
-- Typesetting Language: **LaTeX**; Markdown
-- Programming Framework: **PyTorch**; RAPIDS, TensorFlow
-- Cloud Computing: **Amazon Web Services**, Microsoft Azure
-- Distributed Computing: Havrod, DDP, HPC Management
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=7X57fGgAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-7231-0487))
 
@@ -36,5 +21,5 @@ Conducting Research at Moffitt Cancer Center | Check out our [[lab page]](https:
 1. **Aakash Tripathi**, Asim Waqas, Yasin Yilmaz, and Ghulam Rasool - Multimodal transformer model improves survival prediction in lung cancer compared to unimodal approaches [[Abstract]](https://doi.org/10.1158/1538-7445.AM2024-4905)
 1. **Aakash Tripathi**, Asim Waqas, and Ghulam Rasool - BIO24-030: Unifying Multimodal Data, Time Series Analytics, and Contextual Medical Memory: Introducing MINDS as an Oncology-Centric Cloud-Based Platform [[Abstract]](https://doi.org/10.6004/jnccn.2023.7305)
 1. Asim Waqas, **Aakash Tripathi**, Ashwin Mukund, Paul Stewart, Mia Naeini, and Ghulam Rasool - BIO24-031: Hierarchical Multimodal Learning on Pan-Squamous Cell Carcinomas for Improved Survival Outcomes [[Abstract]](https://doi.org/10.6004/jnccn.2023.7137)
-1. **Aakash Tripathi**, Asim Waqas, Yasin Yilmaz, and Ghulam Rasool - HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models [[arXiv]](https://arxiv.org/abs/2405.07460)[[Code]](https://github.com/lab-rasool/HoneyBee)[[Dataset]](https://huggingface.co/datasets/Lab-Rasool/TCGA)
+1. **Aakash Tripathi**, Asim Waqas, Yasin Yilmaz, and Ghulam Rasool - HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models [[arXiv]](https://arxiv.org/abs/2405.07460) [[Code]](https://github.com/lab-rasool/HoneyBee) [[Dataset]](https://huggingface.co/datasets/Lab-Rasool/TCGA)
 1. Asim Waqas, **Aakash Tripathi**, Sabeen Ahmed, Ashwin Mukund, Hamza Farooq, Matthew B. Schabath, Paul Stewart, Mia Naeini, and Ghulam Rasool - SeNMo: A Self-Normalizing Deep Learning Model for Enhanced Multi-Omics Data Analysis in Oncology [[arXiv]](https://arxiv.org/abs/2405.08226v1)
