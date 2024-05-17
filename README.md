@@ -1,6 +1,4 @@
-# Aakash Tripathi
-
-### *Ph.D. Student*
+# Aakash Tripathi (*Ph.D. Student*)
 
 - University of South Florida 
 - Conducting Multimodal Medical Research at Moffitt Cancer Center 
