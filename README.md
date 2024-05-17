@@ -1,8 +1,6 @@
 # Aakash Tripathi (*Ph.D. Student*)
 
-- University of South Florida 
-- Conducting Multimodal Medical Research at Moffitt Cancer Center 
-- Check out our [[Lab page]](https://lab.moffitt.org/Rasool/), [[GitHub page]](https://github.com/lab-rasool), and [[HuggingFace page]](https://huggingface.co/Lab-Rasool) 
+Conducting Multimodal Medical Research at Moffitt Cancer Center, check out our [[Lab page]](https://lab.moffitt.org/Rasool/), [[GitHub page]](https://github.com/lab-rasool), and [[HuggingFace page]](https://huggingface.co/Lab-Rasool) 
 
 ## Education
 
