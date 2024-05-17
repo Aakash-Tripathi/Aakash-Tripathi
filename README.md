@@ -4,7 +4,7 @@
 
 - University of South Florida 
 - Conducting Multimodal Medical Research at Moffitt Cancer Center 
-- Check out our [[lab page]](https://lab.moffitt.org/Rasool/) and [[GitHub Page]](https://github.com/lab-rasool)
+- Check out our [[Lab page]](https://lab.moffitt.org/Rasool/), [[GitHub page]](https://github.com/lab-rasool), and [[HuggingFace page]](https://huggingface.co/Lab-Rasool) 
 
 ## Education
 
