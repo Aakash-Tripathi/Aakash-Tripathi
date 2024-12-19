@@ -1,4 +1,4 @@
-# Aakash Tripathi (*Ph.D. Student*)
+# Aakash Tripathi (*Ph.D. Candidate*)
 
 Conducting Multimodal Medical Research at Moffitt Cancer Center, check out our [[Lab page]](https://lab.moffitt.org/Rasool/), [[GitHub page]](https://github.com/lab-rasool), and [[HuggingFace page]](https://huggingface.co/Lab-Rasool) 
 
