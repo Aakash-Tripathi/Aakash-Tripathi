@@ -1,23 +1,26 @@
 # Aakash Tripathi (*Ph.D. Candidate*)
 
-Conducting Multimodal Medical Research at Moffitt Cancer Center, check out our [[Lab page]](https://lab.moffitt.org/Rasool/), [[GitHub page]](https://github.com/lab-rasool), and [[HuggingFace page]](https://huggingface.co/Lab-Rasool)
+> 🔬 Conducting Multimodal Medical Research at [Moffitt Cancer Center](https://lab.moffitt.org/Rasool/).
+> 
+> 📂 Explore our work on [GitHub](https://github.com/lab-rasool) | [Hugging Face](https://huggingface.co/Lab-Rasool)
 
-## Education
+## 🎓 Education
 
-- 2022.09–*Present* College of Engineering, University of South Florida  
-  Ph.D. in Electrical Engineering
-- 2018.09–2022.06 Henry M. Rowan College of Engineering, Rowan University  
-  B.S in Electrical and Computer Engineering
+| Degree | Institution | Dates |
+|:---|:---|:---|
+| **Ph.D. in Electrical Engineering** | College of Engineering, University of South Florida | 2022.09 – *Present* |
+| **B.S. in Electrical and Computer Engineering** | Henry M. Rowan College of Engineering, Rowan University | 2018.09 – 2022.06 |
 
-## Publications ([Google Scholar](https://scholar.google.com/citations?user=7X57fGgAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-7231-0487))
+## 📚 Publications >  [Google Scholar](https://scholar.google.com/citations?user=7X57fGgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-7231-0487)
 
-### Presentations
+### 🎤 Presentations
 
 - **Accelerate Cancer Research With AI-Driven Multimodal Data Integration**  
   *NVIDIA GTC 2025 Presentation*  
   [Session Page](https://www.nvidia.com/gtc/session-catalog/?tab.catalogallsessionstab=16566177511100015Kus&search.sessiontype=option_1614028619420#/session/1734302448222001uamP) | [Poster Page](https://www.nvidia.com/gtc/posters/?regcode=no-ncid&ncid=no-ncid#/session/1734302448222001uamP) | [Poster PDF](https://static.rainfocus.com/nvidia/gtcs25/sess/1734302448222001uamP/poster/P74176-Accelerate%20Cancer%20Research%20With%20AI-Driven%20Multimodal%20Data%20Integration_1742357548522001hXfL.pdf)
 
-### Journal Articles
+### 📝 Journal Articles
+
 - **Transformers in Time-Series Analysis: A Tutorial**  
   *Circuits, Systems, and Signal Processing* 42(12), 7433–7466 (2023).  
   Sabeen Ahmed, Ian E. Nielsen, ``Aakash Tripathi``, Shamoon Siddiqui, Ravi P. Ramachandran, and Ghulam Rasool.  
@@ -38,7 +41,8 @@ Conducting Multimodal Medical Research at Moffitt Cancer Center, check out our [
   Asim Waqas, ``Aakash Tripathi``, Ravi P. Ramachandran, Paul Stewart, and Ghulam Rasool.  
   [DOI: 10.3389/frai.2024.1408843](https://doi.org/10.3389/frai.2024.1408843)
 
-### Abstracts
+### 🧩 Abstracts
+
 - **SeNMo: A Self-Normalizing Deep Learning Model for Enhanced Multi-Omics Data Analysis in Oncology**  
   *Cancer Research* 84(6_Supplement), 908–908 (2024).  
   Asim Waqas, ``Aakash Tripathi``, Sabeen Ahmed, Ashwin Mukund, Hamza Farooq, Paul Stewart, Mia Naeini, and Ghulam Rasool.  
@@ -69,7 +73,8 @@ Conducting Multimodal Medical Research at Moffitt Cancer Center, check out our [
   ``Aakash Tripathi``, Asim Waqas, Kavya Venkatesan, Ehsan Ullah, Minh Bui, and Ghulam Rasool.  
   [DOI: 10.1016/j.labinv.2024.103629](https://doi.org/10.1016/j.labinv.2024.103629)
 
-### Preprints
+### 🧪 Preprints
+
 - **HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models**  
   *arXiv preprint arXiv:2405.07460* (2024).  
   ``Aakash Tripathi``, Asim Waqas, Yasin Yilmaz, and Ghulam Rasool.  
