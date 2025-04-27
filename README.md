@@ -11,7 +11,7 @@
 | **Ph.D. in Electrical Engineering** | College of Engineering, University of South Florida | 2022.09 – *Present* |
 | **B.S. in Electrical and Computer Engineering** | Henry M. Rowan College of Engineering, Rowan University | 2018.09 – 2022.06 |
 
-## 📚 Publications >  [Google Scholar](https://scholar.google.com/citations?user=7X57fGgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-7231-0487)
+## 📚 Publications || [Google Scholar](https://scholar.google.com/citations?user=7X57fGgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-7231-0487) ||
 
 ### 🎤 Presentations
 
