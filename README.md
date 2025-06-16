@@ -1,4 +1,4 @@
-# Aakash Tripathi (*Ph.D. Candidate*)
+# Aakash Tripathi (*Ph.D.*)
 
 > 🔬 Conducting Multimodal Medical Research at [Moffitt Cancer Center](https://lab.moffitt.org/Rasool/).
 > 
