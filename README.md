@@ -129,11 +129,6 @@
   ``Aakash Tripathi``, Ian E. Nielsen, Muhammad Umer, Ravi P. Ramachandran, and Ghulam Rasool.
   [arXiv:2507](https://arxiv.org/abs/2507)
 
-- **Self-Normalizing Deep Learning for Enhanced Multi-Omics Data Analysis in Oncology**
-  *Preprints* (2025).
-  Asim Waqas, ``Aakash Tripathi``, Sabeen Ahmed, Ashwin Mukund, Hamza Farooq, Joseph Johnson, Paul Stewart, Mia Naeini, Matthew B. Schabath, and Ghulam Rasool.
-  [DOI: 10.20944/preprints202504.0534.v1](https://doi.org/10.20944/preprints202504.0534.v1)
-
 - **Consensus-Based Reasoning with Locally Deployed LLMs for Structured Data Extraction from Surgical Pathology Reports**
   *Preprint* (2025).
   ``Aakash Tripathi``, Asim Waqas, Ehsan Ullah, Asma Khan, Farah Khalil, Zarifa Gahramanli Ozturk, Daryoush Saeed-Vafa, Wei-Shen Chen, Marilyn M. Bui, Matthew B. Schabath, and others.
