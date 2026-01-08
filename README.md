@@ -13,12 +13,9 @@
 
 **Dissertation:** *Embedding-Based Deep Learning Frameworks for Multimodal Oncology Data Integration*
 
-## 🏆 Awards & Recognition
+## 💻 Tech-stack
 
-- **Best Poster Award** – 2024 Dr. Robert Gillies Machine Learning Workshop in Cancer ($1,000)
-- **2nd Position** – Moffitt Cancer Center Annual Bio-Data Club Hackathon (Dec 2024)
-- **Graduate Assistantship Award** – University of South Florida (2022-2025)
-- **Dean's List** – Rowan University (2018-2022)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,docker,git,github,latex,linux,md,mysql,postgres,nodejs,pytorch,py,raspberrypi,vscode)](https://skillicons.dev)
 
 ## 👥 Professional Memberships
 
@@ -33,7 +30,7 @@
   *NVIDIA GTC 2025 Presentation*
   [Session Page](https://www.nvidia.com/gtc/session-catalog/?tab.catalogallsessionstab=16566177511100015Kus&search.sessiontype=option_1614028619420#/session/1734302448222001uamP) | [Poster Page](https://www.nvidia.com/gtc/posters/?regcode=no-ncid&ncid=no-ncid#/session/1734302448222001uamP) | [Poster PDF](https://static.rainfocus.com/nvidia/gtcs25/sess/1734302448222001uamP/poster/P74176-Accelerate%20Cancer%20Research%20With%20AI-Driven%20Multimodal%20Data%20Integration_1742357548522001hXfL.pdf)
 
-### 📝 Journal Articles
+### 📝 Publications
 
 - **HONeYBEE: Enabling Scalable Multimodal AI in Oncology Through Foundation Model-Driven Embeddings**
   *npj Digital Medicine* 8(1), 622 (2025).
@@ -69,6 +66,11 @@
   *Frontiers in Artificial Intelligence* 7, 1408843 (2024).
   Asim Waqas, ``Aakash Tripathi``, Ravi P. Ramachandran, Paul Stewart, and Ghulam Rasool.
   [DOI: 10.3389/frai.2024.1408843](https://doi.org/10.3389/frai.2024.1408843)
+
+- **Using consensus-based reasoning and large language models to extract structured data from surgical pathology reports**
+  *Laboratory Investigation (2025)*: 104272.
+  ``Aakash Tripathi``, Asim Waqas, Ehsan Ullah, Asma Khan, Farah Khalil, Zarifa Gahramanli Ozturk, Daryoush Saeed-Vafa, Wei-Shen Chen, Marilyn M. Bui, Matthew B. Schabath.
+  [DOI: 10.1016/j.labinv.2025.104272](https://doi.org/10.1016/j.labinv.2025.104272)
 
 ### 🧩 Abstracts
 
@@ -128,11 +130,6 @@
   *arXiv preprint arXiv:2507* (2025).
   ``Aakash Tripathi``, Ian E. Nielsen, Muhammad Umer, Ravi P. Ramachandran, and Ghulam Rasool.
   [arXiv:2507](https://arxiv.org/abs/2507)
-
-- **Consensus-Based Reasoning with Locally Deployed LLMs for Structured Data Extraction from Surgical Pathology Reports**
-  *Preprint* (2025).
-  ``Aakash Tripathi``, Asim Waqas, Ehsan Ullah, Asma Khan, Farah Khalil, Zarifa Gahramanli Ozturk, Daryoush Saeed-Vafa, Wei-Shen Chen, Marilyn M. Bui, Matthew B. Schabath, and others.
-  [DOI: 10.1101/2025.04.22.25326217](https://doi.org/10.1101/2025.04.22.25326217)
 
 ## 🔗 Professional Links
 
