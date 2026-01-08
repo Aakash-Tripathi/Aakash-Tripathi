@@ -1,23 +1,19 @@
-# Aakash Tripathi, Ph.D.
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=100&width=2000&waveHeight=80&bannerText=Aakash%20Tripathi,%20Ph.D." />
 
-> 🔬 Machine Learning Engineer at [Moffitt Cancer Center](https://lab.moffitt.org/Rasool/)
->
-> 📂 Explore our work on [GitHub](https://github.com/lab-rasool) | [Hugging Face](https://huggingface.co/Lab-Rasool)
+> 🔬 Machine Learning Engineer at [Moffitt Cancer Center](https://lab.moffitt.org/Rasool/) > Explore our work on [GitHub](https://github.com/lab-rasool) | [Hugging Face](https://huggingface.co/Lab-Rasool)
 
-## 🎓 Education
+> 💻 My tech stack
+
+![My Skills](https://skillicons.dev/icons?i=aws,react,docker,git,github,latex,linux,md,mysql,postgres,nodejs,pytorch,py,raspberrypi,vscode)
+
+## 🎓 Education & Professional Memberships
 
 | Degree | Institution | Dates |
 |:---|:---|:---|
 | **Ph.D. in Electrical Engineering** | College of Engineering, University of South Florida | Aug 2022 – Aug 2025 |
 | **B.S. in Electrical and Computer Engineering** | Henry M. Rowan College of Engineering, Rowan University | Sep 2018 – Jun 2022 |
 
-**Dissertation:** *Embedding-Based Deep Learning Frameworks for Multimodal Oncology Data Integration*
-
-## 💻 Tech-stack
-
-[![My Skills](https://skillicons.dev/icons?i=aws,react,docker,git,github,latex,linux,md,mysql,postgres,nodejs,pytorch,py,raspberrypi,vscode)](https://skillicons.dev)
-
-## 👥 Professional Memberships
+> **Dissertation:** *Embedding-Based Deep Learning Frameworks for Multimodal Oncology Data Integration*
 
 - **IEEE Eta Kappa Nu (IEEE-HKN) Honors Society** – Member since April 2024
 - **Institute of Electrical and Electronics Engineers (IEEE)** – Member since January 2019
