@@ -29,13 +29,13 @@
 
 ## 📚 Publications || [Google Scholar](https://scholar.google.com/citations?user=7X57fGgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-7231-0487) ||
 
-### 🎤 Presentations
+> ### 🎤 Presentations
 
 - **Accelerate Cancer Research With AI-Driven Multimodal Data Integration**
   *NVIDIA GTC 2025 Presentation*
   [Session Page](https://www.nvidia.com/gtc/session-catalog/?tab.catalogallsessionstab=16566177511100015Kus&search.sessiontype=option_1614028619420#/session/1734302448222001uamP) | [Poster Page](https://www.nvidia.com/gtc/posters/?regcode=no-ncid&ncid=no-ncid#/session/1734302448222001uamP) | [Poster PDF](https://static.rainfocus.com/nvidia/gtcs25/sess/1734302448222001uamP/poster/P74176-Accelerate%20Cancer%20Research%20With%20AI-Driven%20Multimodal%20Data%20Integration_1742357548522001hXfL.pdf)
 
-### 📝 Publications
+> ### 📝 Publications
 
 - **HONeYBEE: Enabling Scalable Multimodal AI in Oncology Through Foundation Model-Driven Embeddings**
   *npj Digital Medicine* 8(1), 622 (2025).
@@ -77,7 +77,7 @@
   ``Aakash Tripathi``, Asim Waqas, Ehsan Ullah, Asma Khan, Farah Khalil, Zarifa Gahramanli Ozturk, Daryoush Saeed-Vafa, Wei-Shen Chen, Marilyn M. Bui, Matthew B. Schabath.
   [DOI: 10.1016/j.labinv.2025.104272](https://doi.org/10.1016/j.labinv.2025.104272)
 
-### 🧩 Abstracts
+> ### 🧩 Abstracts
 
 - **SeNMo: A Self-Normalizing Deep Learning Model for Enhanced Multi-Omics Data Analysis in Oncology**
   *Cancer Research* 84(6_Supplement), 908–908 (2024).
@@ -109,7 +109,7 @@
   ``Aakash Tripathi``, Asim Waqas, Kavya Venkatesan, Ehsan Ullah, Minh Bui, and Ghulam Rasool.
   [DOI: 10.1016/j.labinv.2024.103629](https://doi.org/10.1016/j.labinv.2024.103629)
 
-### 🧪 Preprints
+> ### 🧪 Preprints
 
 - **Embedding-Based Multimodal Learning on Pan-Squamous Cell Carcinomas for Improved Survival Outcomes**
   *arXiv preprint arXiv:2406.08521* (2024).
