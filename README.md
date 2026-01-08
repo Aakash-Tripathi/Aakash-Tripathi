@@ -1,6 +1,16 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=100&width=2000&waveHeight=80&bannerText=Aakash%20Tripathi,%20Ph.D." />
 
-> 🔬 Machine Learning Engineer at [Moffitt Cancer Center](https://lab.moffitt.org/Rasool/) > Explore our work on [GitHub](https://github.com/lab-rasool) | [Hugging Face](https://huggingface.co/Lab-Rasool)
+> 🔬 Machine Learning Engineer at [Moffitt Cancer Center](https://lab.moffitt.org/Rasool/) > Explore our work on [[GitHub](https://github.com/lab-rasool)|[Hugging Face](https://huggingface.co/Lab-Rasool)] 
+
+---
+
+- **LinkedIn:** [linkedin.com/in/aakash-tripathi](https://www.linkedin.com/in/aakash-tripathi/)
+- **ResearchGate:** [researchgate.net/profile/Aakash-Tripathi-2](https://www.researchgate.net/profile/Aakash-Tripathi-2)
+- **GitHub:** [github.com/lab-rasool](https://github.com/lab-rasool)
+- **Hugging Face:** [huggingface.co/Lab-Rasool](https://huggingface.co/Lab-Rasool)
+- **Website:** [Aakash-Tripathi.github.io](https://Aakash-Tripathi.github.io)
+- IEEE Eta Kappa Nu (IEEE-HKN) Honors Society, Member since April 2024
+- Institute of Electrical and Electronics Engineers (IEEE), Member since January 2019
 
 ---
 
@@ -8,7 +18,7 @@
 
 ---
 
-## 🎓 Education & Professional Memberships
+## 🎓 Education
 
 | Degree | Institution | Dates |
 |:---|:---|:---|
@@ -16,9 +26,6 @@
 | **B.S. in Electrical and Computer Engineering** | Henry M. Rowan College of Engineering, Rowan University | Sep 2018 – Jun 2022 |
 
 > **Dissertation:** *Embedding-Based Deep Learning Frameworks for Multimodal Oncology Data Integration*
-
-- **IEEE Eta Kappa Nu (IEEE-HKN) Honors Society** – Member since April 2024
-- **Institute of Electrical and Electronics Engineers (IEEE)** – Member since January 2019
 
 ## 📚 Publications || [Google Scholar](https://scholar.google.com/citations?user=7X57fGgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-7231-0487) ||
 
@@ -128,11 +135,3 @@
   *arXiv preprint arXiv:2507* (2025).
   ``Aakash Tripathi``, Ian E. Nielsen, Muhammad Umer, Ravi P. Ramachandran, and Ghulam Rasool.
   [arXiv:2507](https://arxiv.org/abs/2507)
-
-## 🔗 Professional Links
-
-- **LinkedIn:** [linkedin.com/in/aakash-tripathi](https://www.linkedin.com/in/aakash-tripathi/)
-- **ResearchGate:** [researchgate.net/profile/Aakash-Tripathi-2](https://www.researchgate.net/profile/Aakash-Tripathi-2)
-- **GitHub:** [github.com/lab-rasool](https://github.com/lab-rasool)
-- **Hugging Face:** [huggingface.co/Lab-Rasool](https://huggingface.co/Lab-Rasool)
-- **Website:** [Aakash-Tripathi.github.io](https://Aakash-Tripathi.github.io)
