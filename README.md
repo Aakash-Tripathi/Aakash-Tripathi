@@ -2,9 +2,11 @@
 
 > 🔬 Machine Learning Engineer at [Moffitt Cancer Center](https://lab.moffitt.org/Rasool/) > Explore our work on [GitHub](https://github.com/lab-rasool) | [Hugging Face](https://huggingface.co/Lab-Rasool)
 
-> 💻 My tech stack
+---
 
 ![My Skills](https://skillicons.dev/icons?i=aws,react,docker,git,github,latex,linux,md,mysql,postgres,nodejs,pytorch,py,raspberrypi,vscode)
+
+---
 
 ## 🎓 Education & Professional Memberships
 
