@@ -77,7 +77,8 @@
   ``Aakash Tripathi``, Asim Waqas, Ehsan Ullah, Asma Khan, Farah Khalil, Zarifa Gahramanli Ozturk, Daryoush Saeed-Vafa, Wei-Shen Chen, Marilyn M. Bui, Matthew B. Schabath.
   [DOI: 10.1016/j.labinv.2025.104272](https://doi.org/10.1016/j.labinv.2025.104272)
 
-> ### 🧩 Abstracts
+<details>
+<summary><h3>🧩 Abstracts</h3></summary>
 
 - **SeNMo: A Self-Normalizing Deep Learning Model for Enhanced Multi-Omics Data Analysis in Oncology**
   *Cancer Research* 84(6_Supplement), 908–908 (2024).
@@ -109,8 +110,10 @@
   ``Aakash Tripathi``, Asim Waqas, Kavya Venkatesan, Ehsan Ullah, Minh Bui, and Ghulam Rasool.
   [DOI: 10.1016/j.labinv.2024.103629](https://doi.org/10.1016/j.labinv.2024.103629)
 
-> ### 🧪 Preprints
-
+</details>
+<details>
+<summary><h3>🧪 Preprints</h3></summary>
+ 
 - **Embedding-Based Multimodal Learning on Pan-Squamous Cell Carcinomas for Improved Survival Outcomes**
   *arXiv preprint arXiv:2406.08521* (2024).
   Asim Waqas, ``Aakash Tripathi``, Paul Stewart, Mia Naeini, Matthew B. Schabath, and Ghulam Rasool.
@@ -135,3 +138,5 @@
   *arXiv preprint arXiv:2507* (2025).
   ``Aakash Tripathi``, Ian E. Nielsen, Muhammad Umer, Ravi P. Ramachandran, and Ghulam Rasool.
   [arXiv:2507](https://arxiv.org/abs/2507)
+
+  </details>
