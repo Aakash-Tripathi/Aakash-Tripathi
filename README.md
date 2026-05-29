@@ -44,7 +44,7 @@
 
 - **Robust Multimodal Fusion for Survival Prediction in Cancer Patients**
   *Cancer Informatics* 24, 11769351251376192 (2025).
-  Dominic Flack, ``Aakash Tripathi``, Asim Waqas, Ghulam Rasool, and Delil Dera.
+  Dominic Flack, ``Aakash Tripathi``, Asim Waqas, Ghulam Rasool, and Dimah Dera.
   [DOI: 10.1177/11769351251376192](https://doi.org/10.1177/11769351251376192)
 
 - **Self-Normalizing Multi-Omics Neural Network for Pan-Cancer Prognostication**
