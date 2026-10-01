@@ -1,35 +1,42 @@
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=100&width=2000&waveHeight=80&bannerText=Aakash%20Tripathi,%20Ph.D." />
-
 <p align="center">
-  <b>🔬 Generative & Multimodal AI Research Scientist, Precision Oncology · <a href="https://lab.moffitt.org/Rasool/">Moffitt Cancer Center</a></b><br>
-  <sub>Representation learning, foundation models, LLMs, and survival analysis for oncology across health records, pathology, radiology, and omics.</sub>
+  <img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=120&width=2000&waveHeight=80&bannerText=Aakash%20Tripathi,%20Ph.D." alt="Aakash Tripathi, Ph.D." />
+</p>
+
+<h3 align="center">🔬 Generative & Multimodal AI Research Scientist · Precision Oncology</h3>
+<p align="center">
+  <a href="https://lab.moffitt.org/Rasool/"><b>H. Lee Moffitt Cancer Center & Research Institute</b></a> · Tampa, Florida<br>
+  <sub>Representation learning · Foundation models · LLMs · Survival analysis · across health records, pathology, radiology, and omics</sub>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aakash-tripathi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=7X57fGgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-  <a href="https://orcid.org/0000-0001-7231-0487"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/Aakash-Tripathi-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
-  <a href="https://Aakash-Tripathi.github.io"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://huggingface.co/Aakash-Tripathi"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://Aakash-Tripathi.github.io"><img src="https://img.shields.io/badge/Website-24292F?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAiLz48L3N2Zz4%3D&logoColor=white" alt="Website" height="24" /></a>
+  <a href="https://www.linkedin.com/in/aakash-tripathi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn" height="24" /></a>
+  <a href="https://scholar.google.com/citations?user=7X57fGgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" height="24" /></a>
+  <a href="https://orcid.org/0000-0001-7231-0487"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" height="24" /></a>
+  <a href="https://www.researchgate.net/profile/Aakash-Tripathi-2"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" height="24" /></a>
+  <a href="https://huggingface.co/Aakash-Tripathi"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" height="24" /></a>
   <br>
-  <a href="https://github.com/lab-rasool"><img src="https://img.shields.io/badge/Lab%20GitHub-lab--rasool-181717?style=flat-square&logo=github" /></a>
-  <a href="https://huggingface.co/Lab-Rasool"><img src="https://img.shields.io/badge/Lab%20Hugging%20Face-Lab--Rasool-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>
+  <a href="https://github.com/lab-rasool"><img src="https://img.shields.io/badge/Lab%20GitHub-lab--rasool-24292F?style=flat-square&logo=github&logoColor=white&labelColor=555555" alt="Lab GitHub" height="24" /></a>
+  <a href="https://huggingface.co/Lab-Rasool"><img src="https://img.shields.io/badge/Lab%20Hugging%20Face-Lab--Rasool-24292F?style=flat-square&logo=huggingface&logoColor=white&labelColor=555555" alt="Lab Hugging Face" height="24" /></a>
 </p>
 
 <div align="center">
 <table>
   <tr>
-    <th>Languages</th>
-    <th>ML & Frameworks</th>
-    <th>Infrastructure & Data</th>
-    <th>Tools</th>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,rust,go,js,matlab,bash&perline=7" height="40" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=py,rust,go,js,matlab&perline=3" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch,react,nodejs&perline=3" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux,docker,aws,mysql,postgres&perline=3" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,latex,md,raspberrypi&perline=3" /></td>
+    <td align="right"><b>ML & Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,react,nodejs&perline=7" height="40" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Infrastructure & Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,docker,aws,mysql,postgres&perline=7" height="40" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,latex,md,raspberrypi&perline=7" height="40" /></td>
   </tr>
 </table>
 </div>
@@ -65,16 +72,20 @@
   </tr>
 </table>
 
-## 📚 Selected Publications
+## 🌟 Selected Work
 
-- **HONeYBEE: Enabling Scalable Multimodal AI in Oncology Through Foundation Model-Driven Embeddings**<br>
-  *npj Digital Medicine* (2025) · Co-first & corresponding author · [DOI](https://doi.org/10.1038/s41746-025-02003-4)
-- **Using Consensus-Based Reasoning and Large Language Models to Extract Structured Data From Surgical Pathology Reports**<br>
+- 📄 **HONeYBEE: Enabling Scalable Multimodal AI in Oncology Through Foundation Model-Driven Embeddings**<br>
+  *npj Digital Medicine* (2025) · Co-first & corresponding author · [DOI](https://doi.org/10.1038/s41746-025-02003-4) · [Code](https://github.com/lab-rasool/HoneyBee)
+- 📄 **Using Consensus-Based Reasoning and Large Language Models to Extract Structured Data From Surgical Pathology Reports**<br>
   *Laboratory Investigation* (2026) · First author · [DOI](https://doi.org/10.1016/j.labinv.2025.104272)
-- **Robust Transcription Factor Binding Site Prediction and Explainability Using a Heterogeneous Mixture of Experts Architecture**<br>
-  *Mathematics* (2026) · Co-first author · [DOI](https://doi.org/10.3390/math14142489)
-- **Building Flexible, Scalable, and Machine Learning-Ready Multimodal Oncology Datasets**<br>
-  *Sensors* (2024) · Co-first & corresponding author · [DOI](https://doi.org/10.3390/s24051634)
+- 📄 **Robust Transcription Factor Binding Site Prediction and Explainability Using a Heterogeneous Mixture of Experts Architecture**<br>
+  *Mathematics* (2026) · Co-first author · [DOI](https://doi.org/10.3390/math14142489) · [Code](https://github.com/lab-rasool/TFBS)
+- 📄 **Building Flexible, Scalable, and Machine Learning-Ready Multimodal Oncology Datasets**<br>
+  *Sensors* (2024) · Co-first & corresponding author · [DOI](https://doi.org/10.3390/s24051634) · [Code](https://github.com/lab-rasool/MINDS)
+- 🎤 **Multimodal AI for Precision Oncology: From Data Integration to CDS**<br>
+  Stanford MedAI Group Exchange, Session 155 (2026) · Co-presenter with Asim Waqas · [Video](https://www.youtube.com/watch?v=OA4Ja5eFH1U)
+- 🖼️ **Accelerate Cancer Research With AI-Driven Multimodal Data Integration**<br>
+  NVIDIA GTC 2025, Poster P74176 · [Session](https://www.nvidia.com/gtc/session-catalog/?search=P74176) · [Poster PDF](https://static.rainfocus.com/nvidia/gtcs25/sess/1734302448222001uamP/poster/P74176-Accelerate%20Cancer%20Research%20With%20AI-Driven%20Multimodal%20Data%20Integration_1742357548522001hXfL.pdf)
 
 <details>
 <summary><b>📝 All journal articles, proceedings & book chapters (11)</b></summary>
