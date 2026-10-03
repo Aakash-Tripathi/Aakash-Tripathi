@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=120&width=2000&waveHeight=80&bannerText=Aakash%20Tripathi,%20Ph.D." alt="Aakash Tripathi, Ph.D." />
-</p>
-
 <h3 align="center">🔬 Generative & Multimodal AI Research Scientist · Precision Oncology</h3>
 <p align="center">
   <a href="https://lab.moffitt.org/Rasool/"><b>H. Lee Moffitt Cancer Center & Research Institute</b></a> · Tampa, Florida<br>
