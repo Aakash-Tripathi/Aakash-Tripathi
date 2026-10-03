@@ -1,4 +1,4 @@
-<h3 align="center">🔬 Generative & Multimodal AI Research Scientist · Precision Oncology</h3>
+<h2 align="center">🔬 Generative & Multimodal AI Research Scientist · Precision Oncology</h3>
 <p align="center">
   <a href="https://lab.moffitt.org/Rasool/"><b>H. Lee Moffitt Cancer Center & Research Institute</b></a> · Tampa, Florida<br>
   <sub>Representation learning · Foundation models · LLMs · Survival analysis · across health records, pathology, radiology, and omics</sub>
